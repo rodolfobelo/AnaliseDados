@@ -1,0 +1,4 @@
+*.env
+Conexao.py
+database.py
+.env
