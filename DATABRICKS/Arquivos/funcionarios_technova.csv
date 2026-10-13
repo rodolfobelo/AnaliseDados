@@ -1,0 +1,501 @@
+id_funcionario,nome_completo,genero,idade,departamento,cargo,salario,cidade,estado,data_admissao,data_desligamento,avaliacao_performance
+F0204,Felipe Correia Ribeiro,M,32,Produto,UX Researcher,7371.99,Recife,PE,2019-07-28,,4
+F0447,Fernando Araújo Araújo,M,23,Customer Success,Analista de CS,5452.63,Curitiba,PR,2023-10-22,2025-02-22,1
+F0219,Beatriz Rodrigues Almeida,F,49,RH,Coordenador de RH,8583.74,Belo Horizonte,MG,2021-02-04,,4
+F0377,Amanda Dias Pereira,F,58,Marketing,Coordenador de Marketing,8205.05,Campinas,SP,2025-05-24,,3
+F0354,Renata Cardoso Almeida,F,42,Tecnologia,DevOps,10505.24,Remote,BR,2024-03-11,2025-09-22,2
+F0431,Cristina Gomes Dias,F,57,RH,Business Partner,7771.0,São Paulo,SP,2023-11-04,2025-09-06,3
+F0451,Adriana Ferreira Teixeira,F,24,Tecnologia,DevOps,9038.16,Salvador,BA,2021-07-31,,3
+F0400,Renata Almeida Nascimento,F,58,Comercial,Closer,8870.13,Salvador,BA,2020-10-21,,5
+F0271,Renata Lima Rocha,F,49,Customer Success,Analista de CS,5183.79,São Paulo,SP,2025-06-06,,3
+F0048,Carlos Rodrigues Martins,M,47,Produto,Product Manager,13377.6,Remote,BR,2019-11-08,,5
+F0255,Larissa Monteiro Barbosa,F,41,RH,Analista de RH,5695.78,Remote,BR,2020-04-21,,4
+F0335,Letícia Carvalho Araújo,F,33,RH,Analista de RH,4745.24,Recife,PE,2019-04-12,,5
+F0129,João Carvalho Almeida,M,34,Marketing,Designer,4683.46,Brasília,DF,2020-07-16,,3
+F0467,Adriana Nascimento Martins,F,39,Customer Success,Especialista de CS,6840.41,Remote,BR,2019-09-15,,2
+F0240,Mariana Correia Monteiro,F,50,Operações,Gerente de Operações,15806.62,São Paulo,SP,2024-02-16,2025-03-19,2
+F0161,Thiago Ferreira Lima,M,48,Comercial,Vendedor,3206.3,Florianópolis,SC,2020-10-13,,5
+F0157,Renata Rocha Pereira,F,43,Marketing,Designer,5317.47,Campinas,SP,2024-04-27,2024-11-07,1
+F0142,Henrique Pereira Lima,M,24,Comercial,SDR,2607.34,Porto Alegre,RS,2020-03-28,,3
+F0277,Priscila Mendes Rodrigues,F,50,Comercial,Vendedor,4196.03,Porto Alegre,RS,2019-06-12,2021-10-18,2
+F0436,Vitor Cardoso Ribeiro,M,51,Financeiro,Contador,6613.41,Recife,PE,2021-02-01,,4
+F0035,Pedro Souza Barbosa,M,49,Customer Success,Especialista de CS,7639.93,Recife,PE,2024-10-19,,2
+F0104,Cristina Gomes Martins,F,26,Comercial,SDR,3471.87,Brasília,DF,2018-11-27,,3
+F0390,Carolina Barbosa Monteiro,F,58,Customer Success,Especialista de CS,6129.26,São Paulo,SP,2023-11-11,2024-05-16,3
+F0171,Vanessa Nascimento Martins,F,54,Marketing,Coordenador de Marketing,10223.9,Florianópolis,SC,2024-11-09,,5
+F0217,Fernanda Martins Araújo,F,57,Customer Success,Analista de CS,4052.52,Recife,PE,2019-01-17,,4
+F0352,Bruna Lima Santos,F,40,Tecnologia,Tech Lead,16322.24,Belo Horizonte,MG,2020-10-23,2021-08-26,3
+F0052,Paulo Souza Mendes,M,32,Financeiro,Tesoureiro,9718.07,Recife,PE,2024-10-17,,4
+F0401,Roberto Ferreira Correia,M,23,Operações,Coordenador de Operações,9653.74,Campinas,SP,2023-05-29,2024-02-02,3
+F0199,Ana Rodrigues Gomes,F,57,Tecnologia,Desenvolvedor Pleno,7439.76,Campinas,SP,2020-06-07,,5
+F0389,Carlos Ribeiro Correia,M,28,Customer Success,Especialista de CS,7249.33,Campinas,SP,2022-10-09,2024-08-07,4
+F0013,Amanda Nascimento Ribeiro,F,37,Tecnologia,Desenvolvedor Pleno,9958.94,Curitiba,PR,2018-08-26,2022-04-28,5
+F0064,Matheus Silva Mendes,M,33,RH,Coordenador de RH,9914.86,Recife,PE,2018-07-30,2021-09-30,2
+F0031,Gabriela Souza Carvalho,F,32,Customer Success,Gerente de CS,13197.49,Porto Alegre,RS,2019-12-27,,1
+F0375,Priscila Mendes Gomes,F,56,Financeiro,Analista Financeiro,5613.51,Salvador,BA,2023-04-18,,3
+F0358,Daniel Monteiro Carvalho,M,55,Comercial,Gerente de Vendas,13132.05,Belo Horizonte,MG,2018-10-07,,3
+F0330,Rodrigo Barbosa Cardoso,M,54,Marketing,Coordenador de Marketing,10756.48,Rio de Janeiro,RJ,2024-12-05,2025-07-02,4
+F0386,Rafael Teixeira Dias,M,36,Operações,Coordenador de Operações,9347.52,Rio de Janeiro,RJ,2022-03-30,,2
+F0453,Beatriz Nascimento Oliveira,F,27,Produto,Product Manager,14269.65,Curitiba,PR,2022-06-21,,4
+F0288,Isabela Monteiro Cardoso,F,46,Operações,Analista de Operações,5864.17,Belo Horizonte,MG,2021-06-10,,3
+F0297,Bruno Souza Silva,M,52,Financeiro,Contador,6859.3,Rio de Janeiro,RJ,2019-04-19,,3
+F0355,Carlos Rocha Cardoso,M,34,Operações,Gerente de Operações,14261.04,Campinas,SP,2020-03-03,2021-08-28,5
+F0173,Vitor Carvalho Dias,M,39,RH,Coordenador de RH,8769.06,Porto Alegre,RS,2024-04-04,2025-03-02,4
+F0430,Eduardo Silva Souza,M,37,Financeiro,Tesoureiro,9976.41,Brasília,DF,2018-05-18,2022-12-28,4
+F0492,Bruno Alves Almeida,M,34,Marketing,Analista de Marketing,5223.27,São Paulo,SP,2019-01-15,,1
+F0253,Renata Mendes Silva,F,31,Marketing,Coordenador de Marketing,8934.51,Porto Alegre,RS,2022-08-14,,4
+F0084,Vitor Santos Barbosa,M,36,Comercial,Executivo de Contas,6314.79,Curitiba,PR,2019-01-06,,2
+F0473,André Correia Rocha,M,41,Tecnologia,Tech Lead,16496.49,Florianópolis,SC,2021-03-17,,3
+F0002,Patrícia Ferreira Alves,F,48,Tecnologia,Tech Lead,19555.34,Salvador,BA,2020-06-21,,3
+F0465,Patrícia Rocha Lima,F,30,Financeiro,Contador,6003.4,Salvador,BA,2022-10-28,,5
+F0166,Bruna Carvalho Nascimento,F,47,Operações,Analista de Operações,4837.93,Salvador,BA,2023-08-11,2024-03-17,2
+F0143,André Gomes Monteiro,M,34,Produto,UX Designer,6517.19,Remote,BR,2021-03-17,,4
+F0325,Larissa Cardoso Carvalho,F,41,RH,Recrutador,3784.87,Salvador,BA,2019-11-16,2020-08-15,2
+F0191,Eduardo Oliveira Dias,M,47,Marketing,Social Media,3389.81,Salvador,BA,2023-12-07,2025-01-18,4
+F0347,Cristina Silva Alves,F,54,Tecnologia,DevOps,12490.79,Brasília,DF,2019-12-27,,3
+F0139,Rafael Dias Dias,M,55,Comercial,Closer,8923.96,Rio de Janeiro,RJ,2024-02-07,,5
+F0463,Carlos Alves Rodrigues,M,57,Tecnologia,Analista de Dados,8636.03,São Paulo,SP,2021-02-21,2023-07-20,4
+F0108,Sabrina Teixeira Carvalho,F,57,Marketing,Analista de Marketing,5690.22,Salvador,BA,2021-09-12,,3
+F0278,Pedro Pereira Mendes,M,46,Customer Success,Gerente de CS,11495.99,São Paulo,SP,2022-10-14,2023-11-17,5
+F0227,Marcos Souza Silva,M,57,Comercial,Gerente de Vendas,11554.41,Salvador,BA,2024-07-05,,3
+F0092,Rafael Costa Lima,M,32,Operações,Gerente de Operações,14010.05,Curitiba,PR,2020-11-18,,5
+F0478,Daniela Almeida Almeida,F,30,Produto,UX Designer,8404.65,Rio de Janeiro,RJ,2020-04-10,2025-01-21,2
+F0309,Fernanda Costa Costa,F,45,Tecnologia,Tech Lead,14638.11,São Paulo,SP,2020-03-26,2023-04-30,3
+F0203,Mariana Monteiro Mendes,F,36,Customer Success,Especialista de CS,6026.75,Recife,PE,2022-04-05,,3
+F0117,Daniel Martins Mendes,M,29,Customer Success,Gerente de CS,12672.68,Curitiba,PR,2022-07-18,2024-11-09,2
+F0407,Adriana Mendes Lima,F,24,Tecnologia,DevOps,10904.61,Salvador,BA,2023-08-21,,5
+F0260,Eduardo Mendes Rocha,M,25,Comercial,Gerente de Vendas,14033.11,Porto Alegre,RS,2020-09-28,2023-09-02,2
+F0183,Maria Rodrigues Gomes,F,41,Financeiro,Tesoureiro,9913.52,Recife,PE,2024-07-13,,1
+F0269,Letícia Silva Correia,F,35,Customer Success,Gerente de CS,13090.63,Rio de Janeiro,RJ,2023-12-11,,3
+F0322,Cristina Nascimento Rocha,F,50,Marketing,Social Media,4215.2,São Paulo,SP,2021-01-25,2025-11-24,2
+F0051,Aline Ferreira Rocha,F,34,Comercial,Vendedor,3855.93,Porto Alegre,RS,2018-03-25,,3
+F0135,Fernando Silva Martins,M,46,Tecnologia,DevOps,11008.83,Porto Alegre,RS,2018-12-01,,1
+F0063,Rafael Almeida Silva,M,57,Marketing,Social Media,3272.83,São Paulo,SP,2021-04-11,,2
+F0249,Natália Almeida Pereira,F,27,RH,Analista de RH,5309.18,Curitiba,PR,2022-03-04,,4
+F0131,Sabrina Araújo Santos,F,50,Customer Success,Especialista de CS,7493.82,Porto Alegre,RS,2024-11-05,2025-11-11,4
+F0023,Ana Alves Oliveira,F,37,Marketing,Analista de Marketing,5709.08,Remote,BR,2022-07-12,2024-05-26,3
+F0305,Pedro Pereira Rodrigues,M,47,Customer Success,Analista de CS,5236.49,Remote,BR,2018-06-08,,5
+F0235,Rodrigo Mendes Oliveira,M,29,Marketing,Social Media,3388.58,Curitiba,PR,2020-01-20,,3
+F0313,Gustavo Cardoso Rocha,M,51,RH,Coordenador de RH,11581.93,Recife,PE,2020-10-29,2023-01-05,3
+F0405,Gabriel Correia Souza,M,53,Comercial,Vendedor,3746.14,Remote,BR,2024-11-19,2025-12-23,3
+F0128,Vitor Gomes Rocha,M,55,Operações,Analista de Operações,5874.26,Remote,BR,2019-01-18,,3
+F0118,Gustavo Carvalho Oliveira,M,47,Customer Success,Analista de CS,4486.63,Campinas,SP,2023-11-17,2025-03-28,4
+F0450,Amanda Rocha Almeida,F,43,Tecnologia,DevOps,9145.3,São Paulo,SP,2021-11-26,,4
+F0403,Lucas Gomes Dias,M,52,Operações,Analista de Operações,5620.01,Belo Horizonte,MG,2021-07-09,,5
+F0494,Patrícia Teixeira Santos,F,29,Produto,UX Researcher,9226.5,Salvador,BA,2018-01-17,,2
+F0021,Pedro Pereira Gomes,M,40,Tecnologia,DevOps,9966.89,Brasília,DF,2022-09-29,,4
+F0105,Mariana Barbosa Rocha,F,40,Operações,Coordenador de Operações,10780.66,Salvador,BA,2023-02-02,,4
+F0042,Carlos Lima Rocha,M,33,Tecnologia,Desenvolvedor Pleno,9446.63,Porto Alegre,RS,2023-10-23,,4
+F0226,Camila Correia Ferreira,F,58,Operações,Analista de Operações,5823.4,São Paulo,SP,2025-03-27,,3
+F0290,Gabriel Nascimento Teixeira,M,32,Comercial,Executivo de Contas,5632.34,Recife,PE,2025-02-18,,2
+F0462,Ana Ferreira Alves,F,23,RH,Business Partner,8963.76,Belo Horizonte,MG,2021-11-21,,3
+F0409,Rafael Monteiro Rodrigues,M,43,Financeiro,Controller,12851.0,Campinas,SP,2022-02-07,2024-12-21,2
+F0420,Beatriz Alves Pereira,F,52,Tecnologia,Desenvolvedor Junior,4794.39,Recife,PE,2023-03-29,,4
+F0491,Adriana Almeida Cardoso,F,27,Operações,Gerente de Operações,11377.12,Florianópolis,SC,2023-07-29,,3
+F0010,Natália Pereira Dias,F,51,Customer Success,Gerente de CS,9904.93,Florianópolis,SC,2023-12-08,2025-12-23,4
+F0162,Daniel Teixeira Nascimento,M,51,Financeiro,Contador,6495.49,Salvador,BA,2023-08-05,,4
+F0442,Vitor Teixeira Martins,M,39,Operações,Gerente de Operações,11526.48,Campinas,SP,2023-12-07,2024-08-15,4
+F0342,Cristina Araújo Nascimento,F,28,Comercial,SDR,3513.91,São Paulo,SP,2022-07-11,,4
+F0276,Camila Araújo Souza,F,30,Marketing,Analista de Marketing,4426.31,Porto Alegre,RS,2020-03-22,,3
+F0102,Carlos Mendes Nascimento,M,48,Tecnologia,Desenvolvedor Senior,12686.06,Belo Horizonte,MG,2023-11-25,2024-07-27,3
+F0132,Tatiana Ferreira Almeida,F,50,Produto,Product Owner,10418.5,Campinas,SP,2023-03-07,,4
+F0015,Tatiana Correia Teixeira,F,45,Financeiro,Controller,12474.76,Remote,BR,2022-11-30,,4
+F0024,Amanda Oliveira Martins,F,37,Operações,Coordenador de Operações,7935.33,Recife,PE,2020-12-23,,4
+F0267,Ricardo Oliveira Monteiro,M,58,Produto,Product Manager,13265.95,Curitiba,PR,2021-05-29,,3
+F0083,Rodrigo Cardoso Gomes,M,46,Comercial,Gerente de Vendas,14832.17,Salvador,BA,2021-07-21,,5
+F0215,Lucas Correia Barbosa,M,39,RH,Recrutador,4883.6,Rio de Janeiro,RJ,2019-09-24,,4
+F0120,Larissa Souza Lima,F,26,RH,Recrutador,3912.3,Belo Horizonte,MG,2019-12-27,,4
+F0049,Bruna Mendes Mendes,F,51,Tecnologia,Desenvolvedor Pleno,8985.35,Belo Horizonte,MG,2020-01-15,2022-08-28,2
+F0017,Lucas Alves Ferreira,M,58,RH,Coordenador de RH,8856.95,Belo Horizonte,MG,2024-06-18,,4
+F0178,Daniela Rocha Ribeiro,F,42,Produto,Product Owner,12126.01,Curitiba,PR,2021-03-15,,5
+F0110,Aline Monteiro Carvalho,F,57,Comercial,Gerente de Vendas,13385.32,Florianópolis,SC,2024-12-21,,4
+F0124,André Lima Santos,M,27,Produto,Product Manager,15741.41,Recife,PE,2023-08-29,,2
+F0114,Marcos Rodrigues Costa,M,53,Comercial,Gerente de Vendas,12635.55,Curitiba,PR,2023-11-29,,2
+F0382,Fernanda Carvalho Barbosa,F,29,Comercial,Executivo de Contas,5795.07,Recife,PE,2023-05-27,,4
+F0457,Patrícia Dias Carvalho,F,37,Marketing,Analista de Marketing,4647.22,São Paulo,SP,2024-12-18,,5
+F0446,Vitor Nascimento Carvalho,M,37,Customer Success,Gerente de CS,11666.82,Recife,PE,2024-04-25,,3
+F0172,Isabela Lima Alves,F,55,Financeiro,Controller,15590.24,Brasília,DF,2022-03-24,,3
+F0385,Vanessa Barbosa Ribeiro,F,31,Produto,Product Owner,9765.2,Florianópolis,SC,2024-07-14,,3
+F0488,Fernanda Costa Nascimento,F,24,Operações,Gerente de Operações,13883.01,Brasília,DF,2025-03-29,2025-10-14,3
+F0498,Vitor Araújo Santos,M,25,Marketing,Analista de Marketing,5435.62,Remote,BR,2019-03-10,,2
+F0085,Vanessa Pereira Cardoso,F,40,RH,Analista de RH,4091.98,São Paulo,SP,2022-01-08,,3
+F0393,Diego Mendes Carvalho,M,29,Customer Success,Gerente de CS,10262.73,Remote,BR,2020-07-30,,4
+F0350,Patrícia Costa Barbosa,F,33,RH,Business Partner,10516.29,Belo Horizonte,MG,2023-08-26,,4
+F0008,Patrícia Mendes Cardoso,F,51,Operações,Analista de Operações,5841.97,Florianópolis,SC,2019-08-09,2021-06-24,4
+F0012,André Correia Pereira,M,34,Comercial,Gerente de Vendas,14776.68,Salvador,BA,2019-09-19,,3
+F0080,Vitor Correia Monteiro,M,37,Customer Success,Especialista de CS,8211.99,Porto Alegre,RS,2024-05-31,,5
+F0159,Gabriela Gomes Almeida,F,50,Produto,Product Manager,15056.24,Belo Horizonte,MG,2022-08-30,,3
+F0464,Juliana Teixeira Gomes,F,49,Financeiro,Tesoureiro,8065.3,Belo Horizonte,MG,2021-07-03,,3
+F0146,Diego Araújo Barbosa,M,50,Customer Success,Analista de CS,5379.53,Recife,PE,2018-06-23,,5
+F0236,Marcos Barbosa Lima,M,56,Customer Success,Especialista de CS,6120.11,Remote,BR,2025-03-27,,3
+F0334,Carolina Carvalho Dias,F,24,Operações,Coordenador de Operações,9858.74,Rio de Janeiro,RJ,2018-02-09,,4
+F0353,Bruno Correia Monteiro,M,57,Tecnologia,Engenheiro de Dados,13507.33,Rio de Janeiro,RJ,2020-07-07,,4
+F0090,Roberto Ferreira Barbosa,M,38,Operações,Analista de Operações,5800.56,Campinas,SP,2025-05-24,,3
+F0194,Larissa Teixeira Santos,F,25,Customer Success,Especialista de CS,6256.15,Porto Alegre,RS,2019-07-28,,3
+F0027,Gabriela Monteiro Almeida,F,57,Comercial,Executivo de Contas,5434.72,Rio de Janeiro,RJ,2019-09-29,2023-08-17,2
+F0346,Bruno Araújo Costa,M,29,Operações,Analista de Operações,6065.73,São Paulo,SP,2023-01-20,,4
+F0383,Natália Martins Silva,F,32,Financeiro,Analista Financeiro,4681.35,Campinas,SP,2019-07-06,,2
+F0416,Juliana Pereira Nascimento,F,39,Financeiro,Controller,12047.77,Curitiba,PR,2024-10-15,,3
+F0293,Fernanda Araújo Oliveira,F,28,Tecnologia,Analista de Dados,6060.23,Curitiba,PR,2018-10-31,,5
+F0140,Bruna Ribeiro Santos,F,44,Customer Success,Especialista de CS,6310.22,São Paulo,SP,2018-10-04,,4
+F0003,Adriana Pereira Cardoso,F,43,Customer Success,Especialista de CS,6378.04,Porto Alegre,RS,2019-02-23,2020-03-07,3
+F0141,Adriana Mendes Teixeira,F,43,Operações,Analista de Operações,4497.54,Salvador,BA,2025-03-17,2025-12-21,3
+F0345,Vitor Alves Carvalho,M,30,Comercial,Vendedor,4055.63,Brasília,DF,2022-08-04,2024-03-07,2
+F0301,Lucas Gomes Cardoso,M,33,Tecnologia,Desenvolvedor Senior,11873.58,Brasília,DF,2019-11-16,,4
+F0087,Henrique Rodrigues Araújo,M,40,RH,Analista de RH,5797.82,Brasília,DF,2024-02-17,2025-03-29,5
+F0258,Priscila Oliveira Silva,F,47,RH,Recrutador,3671.69,São Paulo,SP,2023-09-07,2025-07-31,4
+F0414,Priscila Mendes Rocha,F,54,Marketing,Social Media,3768.17,Remote,BR,2023-06-20,,4
+F0062,Patrícia Costa Teixeira,F,40,Produto,UX Designer,8718.67,Salvador,BA,2019-02-16,,3
+F0264,Larissa Teixeira Alves,F,37,Tecnologia,Desenvolvedor Junior,5145.64,São Paulo,SP,2018-07-08,,3
+F0424,Maria Monteiro Carvalho,F,47,Financeiro,Tesoureiro,10375.78,Florianópolis,SC,2020-10-20,2025-06-05,3
+F0384,Ana Pereira Rodrigues,F,23,Marketing,Coordenador de Marketing,9877.56,Campinas,SP,2025-06-03,,5
+F0230,Ricardo Oliveira Almeida,M,28,Tecnologia,Desenvolvedor Pleno,6876.79,Recife,PE,2019-11-05,,4
+F0026,Aline Oliveira Ferreira,F,41,Operações,Coordenador de Operações,7767.89,Salvador,BA,2024-11-10,,4
+F0327,João Ferreira Ferreira,M,54,Marketing,Designer,5468.15,Campinas,SP,2019-11-24,2024-05-17,3
+F0259,Gustavo Gomes Oliveira,M,54,Marketing,Social Media,3333.76,Rio de Janeiro,RJ,2020-04-12,,3
+F0311,Alexandre Cardoso Oliveira,M,58,RH,Analista de RH,4773.13,Belo Horizonte,MG,2020-05-27,,4
+F0320,Matheus Ribeiro Santos,M,29,Comercial,SDR,3698.47,Salvador,BA,2022-04-13,,3
+F0111,Amanda Dias Cardoso,F,43,RH,Analista de RH,4360.83,Curitiba,PR,2021-12-08,2023-03-26,3
+F0412,Leonardo Almeida Rodrigues,M,25,Tecnologia,DevOps,9235.49,Belo Horizonte,MG,2020-06-01,,4
+F0272,Ricardo Gomes Cardoso,M,26,Operações,Coordenador de Operações,8829.93,Porto Alegre,RS,2020-04-10,2025-01-31,3
+F0025,Thiago Nascimento Correia,M,28,Comercial,Vendedor,3441.6,Campinas,SP,2018-10-28,,4
+F0011,Gabriela Teixeira Souza,F,32,RH,Business Partner,7601.59,Florianópolis,SC,2023-02-02,2025-08-09,4
+F0437,Juliana Alves Lima,F,45,Produto,UX Designer,9022.14,Salvador,BA,2023-02-03,2025-05-16,3
+F0081,Pedro Nascimento Teixeira,M,31,Produto,UX Researcher,8112.67,Remote,BR,2023-07-22,,2
+F0174,Isabela Cardoso Ribeiro,F,40,Operações,Coordenador de Operações,8455.69,Curitiba,PR,2019-05-15,,4
+F0308,Alexandre Ribeiro Correia,M,26,Operações,Analista de Operações,5533.59,Belo Horizonte,MG,2021-06-28,,3
+F0245,Henrique Martins Gomes,M,47,Produto,Product Manager,14748.32,Rio de Janeiro,RJ,2023-10-13,,4
+F0380,Daniel Monteiro Mendes,M,26,Marketing,Coordenador de Marketing,10083.97,Recife,PE,2023-10-18,2024-11-29,3
+F0396,Rodrigo Rocha Alves,M,53,RH,Analista de RH,5891.43,Belo Horizonte,MG,2022-12-04,2025-10-19,3
+F0209,Juliana Gomes Gomes,F,22,Customer Success,Gerente de CS,11884.82,Remote,BR,2019-12-03,2022-11-05,3
+F0210,Daniel Souza Alves,M,52,Tecnologia,Tech Lead,15922.2,Campinas,SP,2021-01-15,2021-12-13,3
+F0332,Ricardo Ferreira Silva,M,53,Tecnologia,Desenvolvedor Pleno,9883.39,Campinas,SP,2019-09-03,,4
+F0369,Sabrina Teixeira Teixeira,F,54,Operações,Analista de Operações,5307.84,Remote,BR,2019-08-07,2021-04-30,3
+F0100,Ana Nascimento Ferreira,F,35,Marketing,Designer,4137.22,Salvador,BA,2024-07-29,2025-05-24,2
+F0098,Pedro Cardoso Carvalho,M,45,Financeiro,Tesoureiro,8800.91,Porto Alegre,RS,2019-02-11,,3
+F0060,Juliana Almeida Ferreira,F,45,Customer Success,Gerente de CS,10767.86,Remote,BR,2023-04-23,,3
+F0137,Maria Rodrigues Costa,F,37,Marketing,Coordenador de Marketing,8022.51,Curitiba,PR,2021-05-18,2023-03-17,3
+F0472,Renata Souza Araújo,F,55,Produto,Product Manager,16115.57,Porto Alegre,RS,2024-01-13,,4
+F0078,Leonardo Ferreira Araújo,M,54,Marketing,Coordenador de Marketing,8324.32,Campinas,SP,2019-07-14,,3
+F0367,Tatiana Ferreira Lima,F,31,Customer Success,Gerente de CS,11015.9,Remote,BR,2021-05-05,,5
+F0103,André Mendes Souza,M,55,Produto,Product Owner,12959.83,São Paulo,SP,2021-05-20,,5
+F0119,Letícia Correia Pereira,F,54,Comercial,Closer,7899.67,Salvador,BA,2020-03-05,,3
+F0192,Carolina Araújo Dias,F,37,Customer Success,Gerente de CS,11420.53,Porto Alegre,RS,2023-03-02,,3
+F0496,Letícia Costa Costa,F,29,RH,Business Partner,9116.19,Brasília,DF,2021-01-21,2023-01-31,2
+F0030,Tatiana Santos Carvalho,F,45,Marketing,Coordenador de Marketing,8084.29,Curitiba,PR,2018-06-13,,3
+F0068,Thiago Cardoso Barbosa,M,40,Produto,UX Designer,6504.45,Curitiba,PR,2023-02-03,2024-03-28,5
+F0165,Aline Monteiro Almeida,F,39,Comercial,SDR,3205.45,Salvador,BA,2024-12-27,,2
+F0252,Sabrina Souza Souza,F,46,Operações,Coordenador de Operações,10371.56,Belo Horizonte,MG,2019-06-30,,4
+F0338,Cristina Ribeiro Souza,F,42,Customer Success,Especialista de CS,5728.72,Curitiba,PR,2018-02-20,,4
+F0422,Fernando Ribeiro Monteiro,M,48,Financeiro,Analista Financeiro,5372.09,Recife,PE,2020-11-30,2021-06-19,1
+F0329,Matheus Monteiro Rodrigues,M,22,Produto,Product Owner,9704.18,Remote,BR,2021-05-18,,2
+F0054,Priscila Cardoso Rocha,F,29,Financeiro,Analista Financeiro,5933.82,Curitiba,PR,2024-05-07,,3
+F0043,Vanessa Lima Araújo,F,49,Operações,Coordenador de Operações,9405.55,Salvador,BA,2024-02-23,,3
+F0164,Diego Monteiro Silva,M,45,Comercial,SDR,2731.44,Curitiba,PR,2022-07-10,,3
+F0186,Adriana Ferreira Dias,F,26,Comercial,Closer,7340.24,Recife,PE,2024-04-29,2025-12-24,3
+F0113,Alexandre Nascimento Correia,M,25,Comercial,Vendedor,3017.81,Campinas,SP,2018-12-01,2023-02-13,3
+F0266,Renata Dias Santos,F,47,Marketing,Designer,5608.68,São Paulo,SP,2018-10-10,,5
+F0317,Priscila Cardoso Mendes,F,56,Financeiro,Controller,14178.06,Porto Alegre,RS,2025-02-27,,5
+F0099,Pedro Gomes Rodrigues,M,27,Financeiro,Analista Financeiro,6487.82,Brasília,DF,2025-06-07,2025-12-24,3
+F0198,Vitor Alves Lima,M,27,Customer Success,Analista de CS,4509.99,Recife,PE,2023-01-17,,2
+F0378,Fernando Santos Ferreira,M,36,Produto,Product Owner,9076.59,Recife,PE,2018-06-25,,4
+F0193,Ana Dias Martins,F,24,Tecnologia,Tech Lead,15883.79,Rio de Janeiro,RJ,2023-01-03,,4
+F0127,Letícia Oliveira Mendes,F,47,Marketing,Social Media,3696.37,Remote,BR,2019-06-13,,5
+F0275,André Santos Dias,M,23,RH,Business Partner,10152.32,Belo Horizonte,MG,2022-07-15,,4
+F0153,Thiago Monteiro Lima,M,55,Comercial,Vendedor,3233.01,Brasília,DF,2022-08-10,,4
+F0038,Patrícia Martins Dias,F,58,Customer Success,Gerente de CS,13191.05,Belo Horizonte,MG,2021-05-17,,5
+F0300,Roberto Mendes Ferreira,M,56,Tecnologia,DevOps,12400.98,Florianópolis,SC,2023-04-29,,3
+F0475,Bruna Martins Nascimento,F,34,Produto,Product Manager,12201.72,Campinas,SP,2023-02-06,2024-07-01,3
+F0324,Ana Monteiro Costa,F,34,Operações,Analista de Operações,6362.41,Salvador,BA,2018-03-15,,4
+F0136,Isabela Rocha Nascimento,F,30,Marketing,Designer,4076.61,Brasília,DF,2023-04-06,,1
+F0205,Renata Santos Oliveira,F,36,Tecnologia,Desenvolvedor Junior,4342.31,Remote,BR,2018-10-06,,1
+F0397,Bruno Santos Barbosa,M,37,Financeiro,Contador,6952.46,Recife,PE,2025-05-06,2025-11-12,1
+F0337,Camila Martins Mendes,F,44,Produto,UX Researcher,7416.29,Florianópolis,SC,2024-11-09,2025-10-30,4
+F0061,Fernando Cardoso Araújo,M,34,RH,Business Partner,8105.05,Rio de Janeiro,RJ,2021-07-16,2025-01-13,5
+F0479,Leonardo Ribeiro Monteiro,M,52,Tecnologia,QA,5818.48,Campinas,SP,2023-02-02,,2
+F0440,Patrícia Souza Ribeiro,F,46,Financeiro,Analista Financeiro,4470.0,Remote,BR,2025-05-18,,4
+F0067,Amanda Teixeira Souza,F,32,Financeiro,Contador,5888.08,Rio de Janeiro,RJ,2020-09-09,2021-08-08,2
+F0225,Vanessa Barbosa Ribeiro,F,56,Customer Success,Gerente de CS,12031.74,Florianópolis,SC,2018-05-31,,3
+F0363,Gabriela Martins Souza,F,31,Financeiro,Tesoureiro,9527.62,Rio de Janeiro,RJ,2018-04-08,,3
+F0095,Matheus Dias Ferreira,M,42,Produto,Product Manager,14669.46,Salvador,BA,2024-11-03,2025-05-18,3
+F0115,Rodrigo Santos Silva,M,38,Financeiro,Controller,15315.69,Belo Horizonte,MG,2021-03-31,,1
+F0251,Renata Dias Araújo,F,49,Tecnologia,Desenvolvedor Junior,4852.07,Rio de Janeiro,RJ,2019-06-26,,3
+F0039,Diego Costa Martins,M,35,Operações,Coordenador de Operações,8790.43,Remote,BR,2023-09-25,,5
+F0413,Vanessa Teixeira Nascimento,F,38,RH,Business Partner,8497.1,Salvador,BA,2021-11-10,2023-01-12,3
+F0152,Diego Pereira Cardoso,M,34,Marketing,Social Media,4014.01,Rio de Janeiro,RJ,2019-07-23,2022-10-26,1
+F0045,Carlos Rodrigues Nascimento,M,36,Operações,Gerente de Operações,11651.23,Belo Horizonte,MG,2022-04-18,,4
+F0456,Bruno Nascimento Carvalho,M,50,Tecnologia,Analista de Dados,6507.77,Recife,PE,2024-12-27,2025-07-06,5
+F0029,Letícia Correia Lima,F,49,RH,Recrutador,4934.22,Salvador,BA,2024-04-16,2024-11-20,5
+F0493,André Lima Costa,M,41,Operações,Coordenador de Operações,9836.79,Salvador,BA,2021-09-02,2022-09-18,4
+F0302,Ana Martins Oliveira,F,31,Customer Success,Analista de CS,5994.54,Remote,BR,2024-09-03,2025-04-05,1
+F0362,Letícia Alves Oliveira,F,56,Comercial,Executivo de Contas,7131.91,Salvador,BA,2018-01-31,,3
+F0220,Aline Rodrigues Ferreira,F,41,Produto,Product Owner,10814.59,Belo Horizonte,MG,2018-01-28,,3
+F0449,Larissa Rodrigues Almeida,F,26,Comercial,Closer,7199.39,Porto Alegre,RS,2021-08-22,,3
+F0454,Adriana Lima Ribeiro,F,34,Financeiro,Tesoureiro,8623.15,Campinas,SP,2024-04-17,,4
+F0411,Eduardo Costa Lima,M,48,Marketing,Coordenador de Marketing,10661.54,Belo Horizonte,MG,2023-08-09,2025-11-11,3
+F0443,Patrícia Alves Souza,F,34,Comercial,Executivo de Contas,6075.99,Porto Alegre,RS,2023-11-26,,4
+F0328,Bruna Rocha Rodrigues,F,23,Tecnologia,Desenvolvedor Junior,4791.55,Remote,BR,2018-07-17,,3
+F0336,Eduardo Cardoso Ribeiro,M,29,Customer Success,Gerente de CS,13853.39,Belo Horizonte,MG,2019-06-27,,2
+F0495,Letícia Araújo Santos,F,23,Comercial,Closer,8298.54,Curitiba,PR,2024-06-23,,4
+F0373,Felipe Carvalho Lima,M,41,Operações,Coordenador de Operações,8866.25,Recife,PE,2023-06-18,,3
+F0374,Mariana Lima Monteiro,F,26,Financeiro,Controller,14214.43,Remote,BR,2018-11-05,,5
+F0130,Matheus Alves Correia,M,30,Tecnologia,Engenheiro de Dados,13806.69,Campinas,SP,2024-09-12,,3
+F0033,Fernando Almeida Ferreira,M,43,Financeiro,Analista Financeiro,5852.07,Florianópolis,SC,2021-02-15,,5
+F0022,Gabriel Costa Almeida,M,25,Financeiro,Analista Financeiro,5674.2,Salvador,BA,2021-07-08,2025-04-14,3
+F0448,Patrícia Nascimento Silva,F,44,RH,Recrutador,3769.72,Brasília,DF,2019-10-02,2022-04-20,4
+F0323,Cristina Correia Correia,F,49,Comercial,Executivo de Contas,6274.75,Remote,BR,2022-07-11,,4
+F0007,Fernanda Araújo Gomes,F,36,RH,Recrutador,4832.31,São Paulo,SP,2018-05-12,,3
+F0274,Juliana Pereira Dias,F,31,RH,Analista de RH,4430.04,Recife,PE,2019-01-09,,5
+F0289,Sabrina Silva Cardoso,F,42,Customer Success,Gerente de CS,9755.44,Campinas,SP,2024-11-09,2025-09-29,2
+F0426,Marcos Costa Oliveira,M,51,Marketing,Designer,4579.19,Remote,BR,2024-12-05,,4
+F0075,Gabriela Monteiro Araújo,F,53,Customer Success,Analista de CS,4375.17,Recife,PE,2025-01-05,,2
+F0169,Alexandre Cardoso Rocha,M,58,Tecnologia,QA,5890.38,Remote,BR,2020-07-21,,4
+F0014,Sabrina Ribeiro Oliveira,F,32,Marketing,Designer,5319.5,Salvador,BA,2020-12-21,,4
+F0147,Felipe Rocha Santos,M,32,Comercial,SDR,3025.04,Remote,BR,2018-05-08,2022-04-01,3
+F0319,Henrique Oliveira Ferreira,M,48,Operações,Analista de Operações,6037.26,Curitiba,PR,2021-09-19,,4
+F0364,Juliana Santos Pereira,F,38,RH,Analista de RH,5149.92,Porto Alegre,RS,2022-07-28,,4
+F0243,Letícia Cardoso Almeida,F,28,RH,Business Partner,10628.63,Salvador,BA,2019-07-10,,4
+F0360,Camila Dias Carvalho,F,37,Produto,Product Owner,12779.78,Campinas,SP,2018-06-13,,3
+F0134,Carolina Oliveira Correia,F,31,Marketing,Social Media,3918.91,Salvador,BA,2022-11-27,2025-12-13,2
+F0372,Gustavo Mendes Lima,M,22,Operações,Coordenador de Operações,10651.17,Belo Horizonte,MG,2021-07-06,2023-03-31,4
+F0019,Alexandre Nascimento Souza,M,30,Financeiro,Contador,5694.54,Brasília,DF,2022-09-25,2024-07-09,2
+F0086,Daniel Dias Pereira,M,37,Marketing,Designer,4157.94,Florianópolis,SC,2023-08-01,,3
+F0149,Thiago Correia Oliveira,M,39,Marketing,Social Media,3836.85,Remote,BR,2020-10-19,,1
+F0361,Bruna Rodrigues Monteiro,F,54,RH,Analista de RH,5822.67,Recife,PE,2023-09-15,,2
+F0181,Felipe Costa Souza,M,38,Operações,Analista de Operações,6008.46,Remote,BR,2020-02-02,2022-06-21,4
+F0216,Sabrina Gomes Nascimento,F,50,Operações,Analista de Operações,4601.34,Curitiba,PR,2022-01-14,,2
+F0490,Fernando Oliveira Lima,M,56,RH,Analista de RH,4678.3,Florianópolis,SC,2019-11-11,,3
+F0284,Daniel Silva Cardoso,M,34,Operações,Gerente de Operações,14356.2,Campinas,SP,2023-07-10,,3
+F0263,Cristina Araújo Alves,F,32,Operações,Analista de Operações,5499.14,Campinas,SP,2022-02-15,2023-03-12,4
+F0312,Mariana Rocha Martins,F,33,Tecnologia,Desenvolvedor Junior,4453.37,Belo Horizonte,MG,2024-09-28,,3
+F0241,Carolina Santos Araújo,F,50,RH,Business Partner,10303.92,Rio de Janeiro,RJ,2019-04-26,,3
+F0392,Rodrigo Rodrigues Dias,M,52,Customer Success,Analista de CS,4826.46,Salvador,BA,2020-01-03,,4
+F0432,Aline Santos Dias,F,42,Financeiro,Analista Financeiro,4919.12,Florianópolis,SC,2018-03-03,2020-03-17,3
+F0357,Letícia Araújo Cardoso,F,25,Marketing,Analista de Marketing,4738.15,Recife,PE,2025-01-05,,4
+F0160,Letícia Cardoso Nascimento,F,54,Operações,Coordenador de Operações,7670.76,Recife,PE,2024-04-19,2025-02-16,3
+F0425,Carlos Rodrigues Oliveira,M,39,Customer Success,Gerente de CS,10749.9,Campinas,SP,2021-03-12,,4
+F0242,Gustavo Barbosa Rocha,M,35,Customer Success,Analista de CS,5232.3,Porto Alegre,RS,2018-09-01,,4
+F0126,Natália Rocha Nascimento,F,46,Comercial,Gerente de Vendas,10891.43,Remote,BR,2021-03-09,2025-05-11,5
+F0370,Bruno Souza Pereira,M,40,Tecnologia,QA,6876.15,Rio de Janeiro,RJ,2018-10-03,2020-05-09,4
+F0268,Daniel Ribeiro Correia,M,23,Financeiro,Contador,5591.47,Florianópolis,SC,2020-08-12,,4
+F0286,Letícia Santos Silva,F,45,Marketing,Designer,5548.73,Salvador,BA,2018-10-25,,5
+F0265,Fernanda Santos Monteiro,F,42,Customer Success,Analista de CS,4643.6,Florianópolis,SC,2021-01-16,,4
+F0239,Carolina Santos Rodrigues,F,58,Financeiro,Controller,11274.69,Brasília,DF,2023-07-22,,2
+F0144,Felipe Souza Carvalho,M,43,Customer Success,Especialista de CS,7681.26,Florianópolis,SC,2020-02-05,,4
+F0270,Beatriz Cardoso Rodrigues,F,48,Comercial,Vendedor,4089.78,Salvador,BA,2022-03-06,,4
+F0073,Lucas Ribeiro Carvalho,M,32,Customer Success,Especialista de CS,6498.96,Rio de Janeiro,RJ,2021-09-12,,4
+F0041,Larissa Ribeiro Barbosa,F,58,Comercial,SDR,3090.48,Remote,BR,2020-03-07,,3
+F0445,Matheus Pereira Pereira,M,56,Customer Success,Gerente de CS,11220.06,Belo Horizonte,MG,2024-09-23,,3
+F0480,Larissa Monteiro Rodrigues,F,44,Financeiro,Analista Financeiro,4806.65,São Paulo,SP,2018-05-31,2019-02-01,3
+F0189,Sabrina Costa Mendes,F,56,Comercial,Vendedor,3393.18,Rio de Janeiro,RJ,2018-09-04,,2
+F0248,Ana Souza Rocha,F,50,Produto,Product Manager,11895.73,Belo Horizonte,MG,2023-02-13,2024-10-23,2
+F0476,Isabela Teixeira Souza,F,45,Comercial,Vendedor,3788.72,Remote,BR,2018-12-16,,3
+F0020,Vanessa Monteiro Souza,F,32,Tecnologia,Desenvolvedor Junior,5344.19,Porto Alegre,RS,2022-07-23,,3
+F0018,Bruno Souza Souza,M,25,Customer Success,Especialista de CS,6786.02,Brasília,DF,2025-04-30,,2
+F0188,Pedro Araújo Lima,M,51,Customer Success,Especialista de CS,7178.95,Salvador,BA,2021-06-16,,3
+F0427,Bruno Nascimento Silva,M,33,Marketing,Analista de Marketing,6533.38,São Paulo,SP,2019-02-23,2020-05-04,4
+F0211,Vitor Mendes Dias,M,23,Tecnologia,Desenvolvedor Senior,16401.09,Recife,PE,2020-04-28,,4
+F0138,Lucas Souza Ribeiro,M,49,Tecnologia,Tech Lead,19573.52,Curitiba,PR,2018-01-07,,3
+F0257,Aline Nascimento Lima,F,33,Customer Success,Gerente de CS,11620.14,Salvador,BA,2023-04-14,,4
+F0122,Felipe Mendes Santos,M,50,Operações,Gerente de Operações,11615.47,Brasília,DF,2018-06-04,2020-07-10,1
+F0256,Diego Rocha Santos,M,53,Financeiro,Tesoureiro,8589.19,Porto Alegre,RS,2025-02-26,,4
+F0381,Fernando Ribeiro Ribeiro,M,26,Tecnologia,Desenvolvedor Senior,13663.43,Porto Alegre,RS,2023-10-09,,3
+F0004,Rodrigo Rodrigues Santos,M,27,Produto,Product Manager,16649.45,Florianópolis,SC,2024-03-11,2025-07-25,3
+F0315,Felipe Rocha Nascimento,M,41,RH,Business Partner,9562.03,Remote,BR,2020-02-11,2024-11-23,2
+F0096,Gustavo Almeida Rocha,M,41,Customer Success,Analista de CS,4279.55,São Paulo,SP,2023-07-11,2024-09-03,4
+F0116,Rafael Lima Gomes,M,49,Financeiro,Controller,10774.79,São Paulo,SP,2018-03-18,,2
+F0182,Fernanda Barbosa Rocha,F,47,Customer Success,Especialista de CS,7042.79,Rio de Janeiro,RJ,2019-01-26,2020-05-07,3
+F0500,Daniel Lima Oliveira,M,51,Produto,Product Manager,13751.27,Remote,BR,2023-04-12,2024-05-25,2
+F0231,Tatiana Pereira Nascimento,F,33,Customer Success,Especialista de CS,6249.2,Florianópolis,SC,2020-02-03,,4
+F0283,Adriana Ferreira Mendes,F,33,Customer Success,Especialista de CS,8218.58,Belo Horizonte,MG,2020-08-26,,4
+F0423,Aline Almeida Ribeiro,F,41,Tecnologia,QA,7662.09,Brasília,DF,2018-02-07,,4
+F0497,Patrícia Monteiro Carvalho,F,58,Operações,Coordenador de Operações,7709.6,Curitiba,PR,2020-09-29,2022-12-25,3
+F0485,Gabriel Barbosa Mendes,M,36,Produto,UX Researcher,8474.52,Belo Horizonte,MG,2021-04-04,,1
+F0093,Alexandre Nascimento Souza,M,47,Produto,Product Manager,11988.24,Porto Alegre,RS,2024-04-01,,4
+F0218,João Almeida Martins,M,37,Customer Success,Analista de CS,5449.69,Salvador,BA,2024-05-31,,4
+F0471,Eduardo Correia Santos,M,58,Customer Success,Gerente de CS,11101.91,Campinas,SP,2024-08-29,,4
+F0234,Rodrigo Gomes Barbosa,M,51,Customer Success,Gerente de CS,10148.31,Recife,PE,2024-12-03,2025-11-20,4
+F0213,Renata Teixeira Carvalho,F,43,Tecnologia,Desenvolvedor Pleno,8286.1,Rio de Janeiro,RJ,2024-10-14,,5
+F0071,Alexandre Nascimento Barbosa,M,58,RH,Analista de RH,4182.65,Remote,BR,2024-08-01,,5
+F0044,Thiago Rodrigues Correia,M,53,Financeiro,Controller,14382.23,Salvador,BA,2025-01-11,2025-10-30,1
+F0070,Thiago Souza Araújo,M,56,RH,Coordenador de RH,11770.7,Salvador,BA,2023-07-16,,4
+F0224,Gustavo Oliveira Martins,M,38,Produto,Product Owner,11586.68,Porto Alegre,RS,2025-05-21,2025-12-14,4
+F0421,Vitor Araújo Lima,M,58,Marketing,Coordenador de Marketing,9997.98,Remote,BR,2022-11-17,,4
+F0074,Roberto Monteiro Santos,M,29,Produto,Product Manager,12961.3,Recife,PE,2022-07-14,,4
+F0009,Alexandre Mendes Martins,M,54,Customer Success,Especialista de CS,6214.1,Belo Horizonte,MG,2023-07-15,2024-02-28,4
+F0458,João Nascimento Cardoso,M,43,Comercial,Gerente de Vendas,12740.32,São Paulo,SP,2020-05-06,,3
+F0006,Henrique Carvalho Pereira,M,26,Operações,Coordenador de Operações,7954.23,Curitiba,PR,2024-10-31,,4
+F0069,Daniela Souza Monteiro,F,26,Financeiro,Contador,7561.87,Belo Horizonte,MG,2018-09-02,2020-11-19,3
+F0065,Bruna Ribeiro Oliveira,F,41,Tecnologia,Desenvolvedor Senior,12035.51,Campinas,SP,2018-12-15,,2
+F0148,Pedro Lima Oliveira,M,24,Financeiro,Controller,12283.18,Campinas,SP,2024-10-14,2025-11-28,5
+F0079,Ricardo Alves Rodrigues,M,53,Tecnologia,Analista de Dados,8178.15,Campinas,SP,2019-09-01,,4
+F0214,Roberto Nascimento Silva,M,57,RH,Coordenador de RH,9962.41,Recife,PE,2022-03-18,,4
+F0185,Fernando Barbosa Ferreira,M,45,Financeiro,Contador,6443.27,Brasília,DF,2022-08-31,,5
+F0444,Tatiana Teixeira Monteiro,F,58,Customer Success,Gerente de CS,10106.47,Remote,BR,2022-01-06,,4
+F0415,Bruna Barbosa Almeida,F,43,Produto,Product Owner,12620.33,Remote,BR,2022-09-24,,4
+F0097,Bruna Araújo Carvalho,F,48,Customer Success,Gerente de CS,13162.89,Belo Horizonte,MG,2025-05-06,2025-12-03,3
+F0433,Carlos Silva Santos,M,37,Produto,Product Owner,10434.15,Rio de Janeiro,RJ,2019-10-08,,4
+F0481,Ricardo Oliveira Santos,M,40,Comercial,SDR,3831.98,Belo Horizonte,MG,2024-11-08,,4
+F0428,Larissa Oliveira Lima,F,41,Tecnologia,QA,5764.69,Florianópolis,SC,2023-08-04,,4
+F0109,Alexandre Santos Almeida,M,35,RH,Business Partner,7572.96,Salvador,BA,2019-09-26,,3
+F0280,Gabriel Martins Costa,M,52,Financeiro,Analista Financeiro,6576.69,Recife,PE,2024-02-09,,3
+F0371,Ricardo Carvalho Lima,M,34,Financeiro,Analista Financeiro,5027.3,Rio de Janeiro,RJ,2021-07-25,,3
+F0344,Ricardo Monteiro Correia,M,28,Produto,UX Designer,8690.92,Rio de Janeiro,RJ,2025-05-22,2025-12-09,3
+F0410,Fernando Gomes Rodrigues,M,36,Produto,Product Owner,11314.2,Campinas,SP,2019-02-14,,4
+F0196,Natália Dias Martins,F,46,Produto,Product Manager,16644.83,Remote,BR,2023-11-19,,3
+F0376,Carlos Correia Mendes,M,27,RH,Recrutador,4436.46,Salvador,BA,2022-06-14,,1
+F0321,Beatriz Costa Nascimento,F,31,Customer Success,Gerente de CS,13885.66,Brasília,DF,2021-07-19,,3
+F0202,Matheus Teixeira Ribeiro,M,24,Operações,Analista de Operações,5215.55,Florianópolis,SC,2024-04-23,,4
+F0438,Maria Barbosa Carvalho,F,56,Financeiro,Controller,14149.22,Remote,BR,2022-05-07,2025-08-17,4
+F0222,Ricardo Pereira Gomes,M,53,Operações,Coordenador de Operações,9845.55,Remote,BR,2024-06-16,,3
+F0429,Letícia Oliveira Correia,F,26,Marketing,Analista de Marketing,4986.31,Florianópolis,SC,2024-02-03,,3
+F0483,Vitor Oliveira Almeida,M,43,Produto,Product Owner,9336.9,Curitiba,PR,2023-11-29,,3
+F0474,Isabela Alves Lima,F,29,Produto,UX Researcher,7107.5,Salvador,BA,2020-01-07,,5
+F0057,Ricardo Ferreira Oliveira,M,58,RH,Coordenador de RH,8975.45,Brasília,DF,2024-11-04,,3
+F0184,Gustavo Ferreira Santos,M,54,Comercial,SDR,2952.71,Florianópolis,SC,2021-06-27,,4
+F0287,Daniel Souza Nascimento,M,49,RH,Business Partner,7691.23,Belo Horizonte,MG,2025-03-03,,4
+F0391,Isabela Nascimento Martins,F,38,Operações,Analista de Operações,4740.51,Remote,BR,2020-12-06,,3
+F0028,Bruno Dias Rocha,M,27,RH,Coordenador de RH,9004.49,São Paulo,SP,2025-02-11,,3
+F0282,Roberto Mendes Ferreira,M,39,Marketing,Analista de Marketing,4945.29,Porto Alegre,RS,2023-12-26,,5
+F0190,Pedro Almeida Martins,M,48,Marketing,Designer,5531.66,Remote,BR,2022-03-14,,3
+F0398,Roberto Gomes Carvalho,M,22,Customer Success,Especialista de CS,7241.02,Salvador,BA,2018-10-09,,4
+F0151,Camila Lima Oliveira,F,27,Produto,Product Owner,12754.19,Brasília,DF,2021-08-02,,4
+F0469,Gustavo Rocha Carvalho,M,32,Marketing,Coordenador de Marketing,9467.49,Belo Horizonte,MG,2020-03-02,2022-12-13,4
+F0207,João Alves Cardoso,M,55,Customer Success,Analista de CS,4214.03,Rio de Janeiro,RJ,2019-09-02,2023-08-21,3
+F0262,Rafael Carvalho Lima,M,43,RH,Analista de RH,5542.86,São Paulo,SP,2022-10-25,2023-06-27,2
+F0314,Daniel Souza Silva,M,40,Operações,Gerente de Operações,14825.12,Campinas,SP,2021-05-07,,4
+F0005,Daniel Costa Cardoso,M,27,Comercial,Vendedor,3725.77,Curitiba,PR,2020-08-11,,3
+F0299,Felipe Ferreira Rodrigues,M,28,Tecnologia,Desenvolvedor Senior,15412.52,Remote,BR,2018-12-18,,4
+F0046,Daniela Martins Nascimento,F,46,Produto,UX Researcher,7011.7,Florianópolis,SC,2024-07-20,,1
+F0177,Ana Souza Martins,F,30,Operações,Gerente de Operações,13845.46,Remote,BR,2018-01-22,,5
+F0368,João Monteiro Monteiro,M,47,Marketing,Analista de Marketing,4491.9,Campinas,SP,2024-01-10,,2
+F0435,Thiago Teixeira Costa,M,38,Tecnologia,DevOps,10375.94,Belo Horizonte,MG,2018-06-11,,4
+F0156,André Almeida Oliveira,M,39,RH,Recrutador,4743.1,Salvador,BA,2019-05-28,,4
+F0348,Camila Gomes Dias,F,37,Operações,Gerente de Operações,16135.79,Florianópolis,SC,2021-01-25,,3
+F0292,Alexandre Martins Pereira,M,56,Customer Success,Especialista de CS,8068.96,Recife,PE,2022-03-18,2025-05-22,4
+F0154,Beatriz Nascimento Rocha,F,44,Comercial,SDR,3156.27,Salvador,BA,2019-06-10,,4
+F0163,Bruna Alves Araújo,F,25,Financeiro,Contador,6716.69,São Paulo,SP,2021-02-26,,5
+F0349,Thiago Lima Lima,M,41,Customer Success,Gerente de CS,12960.07,Salvador,BA,2024-02-22,,4
+F0106,Natália Rocha Correia,F,48,Financeiro,Tesoureiro,8825.6,Porto Alegre,RS,2021-10-20,,3
+F0101,Amanda Silva Rodrigues,F,29,Marketing,Designer,5080.43,Belo Horizonte,MG,2025-05-31,,3
+F0229,Sabrina Lima Carvalho,F,55,RH,Business Partner,8839.2,Porto Alegre,RS,2023-06-02,,2
+F0296,Ana Gomes Mendes,F,49,Produto,Product Owner,9039.82,São Paulo,SP,2018-12-25,2023-03-09,3
+F0499,Rafael Cardoso Barbosa,M,56,Produto,UX Designer,7399.81,Porto Alegre,RS,2018-11-18,,4
+F0200,Diego Silva Costa,M,37,Financeiro,Analista Financeiro,6043.13,Brasília,DF,2024-10-11,,3
+F0150,Cristina Alves Gomes,F,35,Comercial,Gerente de Vendas,14429.82,Brasília,DF,2024-11-11,2025-12-30,5
+F0455,Larissa Oliveira Rodrigues,F,27,Customer Success,Especialista de CS,7517.27,Campinas,SP,2019-04-06,,3
+F0232,Sabrina Barbosa Costa,F,35,Produto,UX Researcher,8122.04,Porto Alegre,RS,2021-02-14,,4
+F0077,Lucas Ferreira Souza,M,53,Produto,Product Manager,14827.17,Belo Horizonte,MG,2021-04-10,,3
+F0399,Fernando Rodrigues Ferreira,M,22,Financeiro,Tesoureiro,10546.97,Campinas,SP,2020-12-05,2024-04-04,2
+F0076,Vitor Lima Almeida,M,37,Produto,UX Researcher,7212.85,Remote,BR,2019-10-11,,1
+F0388,Juliana Ribeiro Dias,F,49,Marketing,Analista de Marketing,6373.33,Remote,BR,2023-11-09,,5
+F0001,Maria Teixeira Rodrigues,F,56,Financeiro,Contador,5562.8,Rio de Janeiro,RJ,2018-12-23,,2
+F0326,Thiago Teixeira Alves,M,43,Operações,Coordenador de Operações,10396.71,Belo Horizonte,MG,2023-07-01,,3
+F0387,Renata Alves Dias,F,52,Customer Success,Analista de CS,5211.02,Belo Horizonte,MG,2024-11-23,,5
+F0298,Paulo Rodrigues Oliveira,M,45,Customer Success,Analista de CS,4742.04,Florianópolis,SC,2020-02-04,,3
+F0072,Daniel Santos Correia,M,39,Marketing,Coordenador de Marketing,9572.06,Brasília,DF,2020-01-14,,4
+F0112,Lucas Lima Teixeira,M,46,Tecnologia,Desenvolvedor Pleno,9336.78,Porto Alegre,RS,2022-09-16,,3
+F0047,Leonardo Silva Carvalho,M,56,RH,Coordenador de RH,11413.79,Florianópolis,SC,2024-02-15,,5
+F0032,Marcos Dias Teixeira,M,46,Financeiro,Controller,11227.83,Rio de Janeiro,RJ,2018-06-08,,3
+F0339,Gabriela Nascimento Alves,F,52,Comercial,SDR,3406.99,Porto Alegre,RS,2021-11-17,,4
+F0331,Bruno Barbosa Costa,M,40,RH,Recrutador,4244.26,Florianópolis,SC,2019-10-19,2023-01-27,5
+F0254,Juliana Souza Lima,F,49,Comercial,Closer,8190.03,Recife,PE,2021-07-12,,3
+F0168,Daniel Nascimento Alves,M,45,Produto,UX Designer,7919.66,São Paulo,SP,2021-09-18,,5
+F0195,Daniel Barbosa Correia,M,55,Operações,Analista de Operações,5063.88,Belo Horizonte,MG,2020-06-24,,3
+F0395,Beatriz Ribeiro Barbosa,F,45,Customer Success,Analista de CS,4128.16,Porto Alegre,RS,2018-11-24,,4
+F0418,Patrícia Pereira Gomes,F,57,Comercial,Vendedor,2889.31,Brasília,DF,2018-08-09,2021-04-28,3
+F0351,Adriana Carvalho Monteiro,F,40,Produto,UX Researcher,9092.43,Salvador,BA,2022-09-27,,4
+F0056,Gustavo Lima Martins,M,52,Marketing,Social Media,4185.46,Salvador,BA,2023-03-20,,4
+F0307,Larissa Lima Almeida,F,27,Produto,UX Designer,7262.14,Florianópolis,SC,2020-02-09,,5
+F0036,Mariana Santos Cardoso,F,34,Customer Success,Analista de CS,5039.84,Salvador,BA,2022-01-31,,5
+F0466,Natália Mendes Pereira,F,33,Operações,Analista de Operações,5626.15,Rio de Janeiro,RJ,2021-07-24,,3
+F0158,Henrique Costa Correia,M,56,Customer Success,Gerente de CS,12667.16,Brasília,DF,2021-04-01,,3
+F0091,Natália Rocha Santos,F,30,RH,Coordenador de RH,8133.46,Recife,PE,2019-01-05,,3
+F0228,Eduardo Araújo Correia,M,28,Marketing,Social Media,4796.32,Brasília,DF,2021-04-25,,5
+F0050,Ricardo Nascimento Correia,M,38,Customer Success,Especialista de CS,7705.63,Florianópolis,SC,2018-12-02,,4
+F0460,Pedro Araújo Rocha,M,45,Tecnologia,Desenvolvedor Pleno,8121.39,Curitiba,PR,2019-03-18,2023-05-05,3
+F0461,André Cardoso Souza,M,27,Operações,Coordenador de Operações,10320.38,Salvador,BA,2020-02-03,2023-02-24,3
+F0238,Bruna Monteiro Alves,F,50,Produto,UX Researcher,9127.97,Florianópolis,SC,2023-06-25,2025-07-22,1
+F0306,Ana Teixeira Ribeiro,F,41,RH,Business Partner,7272.84,Curitiba,PR,2021-02-22,,5
+F0304,Camila Mendes Correia,F,48,Comercial,Gerente de Vendas,14910.87,Recife,PE,2020-12-17,,4
+F0059,Renata Costa Oliveira,F,52,Financeiro,Tesoureiro,8958.88,Porto Alegre,RS,2025-03-30,,4
+F0484,Amanda Santos Souza,F,40,Comercial,SDR,3486.81,Campinas,SP,2022-10-16,,3
+F0294,Sabrina Oliveira Monteiro,F,52,Comercial,Gerente de Vendas,13488.96,Campinas,SP,2018-05-07,,4
+F0365,Ricardo Silva Gomes,M,26,Comercial,Closer,6017.7,Campinas,SP,2024-07-26,2025-02-28,3
+F0379,Eduardo Ribeiro Araújo,M,28,Tecnologia,Desenvolvedor Junior,5365.06,Recife,PE,2023-11-06,,3
+F0040,Gabriela Oliveira Almeida,F,41,Operações,Analista de Operações,6200.53,Porto Alegre,RS,2020-07-09,,3
+F0343,Juliana Barbosa Barbosa,F,43,RH,Recrutador,4778.27,Brasília,DF,2022-01-28,,4
+F0340,Tatiana Barbosa Santos,F,53,Tecnologia,Desenvolvedor Senior,14031.18,Brasília,DF,2019-11-09,2023-02-07,2
+F0089,Gustavo Almeida Silva,M,25,Customer Success,Especialista de CS,5622.67,Remote,BR,2024-10-19,,5
+F0121,Roberto Mendes Correia,M,42,Produto,UX Designer,9165.59,Remote,BR,2019-09-11,,4
+F0439,Amanda Almeida Nascimento,F,55,Customer Success,Gerente de CS,11145.72,Rio de Janeiro,RJ,2025-05-22,2025-11-26,2
+F0279,Felipe Araújo Lima,M,48,Tecnologia,Tech Lead,19060.4,Brasília,DF,2024-03-05,,2
+F0176,Patrícia Monteiro Rodrigues,F,37,RH,Recrutador,3796.61,Campinas,SP,2020-09-20,2024-03-10,2
+F0489,Thiago Martins Teixeira,M,42,Tecnologia,Analista de Dados,7694.83,Remote,BR,2024-03-24,,3
+F0291,Thiago Silva Rodrigues,M,38,Financeiro,Contador,7002.26,Recife,PE,2019-03-19,,2
+F0223,Eduardo Carvalho Souza,M,23,Financeiro,Contador,6972.45,Salvador,BA,2023-03-06,,3
+F0402,Gabriela Cardoso Ferreira,F,56,Operações,Coordenador de Operações,10639.6,Salvador,BA,2018-02-09,,3
+F0221,Ricardo Araújo Nascimento,M,41,Customer Success,Gerente de CS,14276.28,Belo Horizonte,MG,2021-08-06,,4
+F0487,Isabela Almeida Rodrigues,F,42,Comercial,Gerente de Vendas,11961.48,Salvador,BA,2018-01-26,2020-06-06,2
+F0356,Fernanda Pereira Teixeira,F,57,Comercial,SDR,2612.01,Curitiba,PR,2020-12-18,2024-09-24,4
+F0417,Roberto Carvalho Teixeira,M,30,Produto,UX Researcher,7368.88,São Paulo,SP,2020-08-19,,5
+F0107,Letícia Martins Nascimento,F,52,RH,Business Partner,10632.93,Remote,BR,2018-10-02,2019-09-21,1
+F0175,Fernando Correia Lima,M,44,RH,Analista de RH,4575.26,Rio de Janeiro,RJ,2022-12-17,,4
+F0482,Vanessa Teixeira Mendes,F,42,Operações,Analista de Operações,4604.88,Curitiba,PR,2022-02-18,,4
+F0197,Carolina Gomes Pereira,F,31,Produto,Product Owner,12537.1,Curitiba,PR,2023-03-12,,4
+F0247,Bruno Ribeiro Rodrigues,M,30,Operações,Coordenador de Operações,8415.92,Campinas,SP,2024-05-07,,4
+F0082,Matheus Araújo Souza,M,31,Produto,Product Manager,15245.69,Florianópolis,SC,2018-11-03,,5
+F0281,Eduardo Rodrigues Pereira,M,39,Tecnologia,Engenheiro de Dados,12466.16,São Paulo,SP,2018-08-28,,4
+F0125,Thiago Alves Alves,M,46,Marketing,Social Media,3796.56,Curitiba,PR,2022-08-02,,4
+F0318,André Almeida Pereira,M,38,Marketing,Social Media,3356.16,Belo Horizonte,MG,2024-04-08,,3
+F0123,Amanda Barbosa Alves,F,50,Customer Success,Especialista de CS,7224.92,São Paulo,SP,2024-05-30,,3
+F0212,Lucas Almeida Pereira,M,43,Financeiro,Tesoureiro,9637.33,Salvador,BA,2022-04-22,,3
+F0303,Vitor Nascimento Rodrigues,M,55,Produto,Product Manager,15604.68,Campinas,SP,2022-09-15,2024-01-14,2
+F0206,Fernando Santos Barbosa,M,57,Produto,UX Researcher,6853.49,Salvador,BA,2022-08-12,2024-08-23,3
+F0477,Bruna Monteiro Gomes,F,31,Tecnologia,Desenvolvedor Senior,16308.62,Campinas,SP,2019-10-27,,3
+F0273,Camila Pereira Araújo,F,44,Produto,UX Designer,7700.84,Salvador,BA,2020-04-30,,4
+F0155,Adriana Lima Martins,F,32,Tecnologia,Desenvolvedor Pleno,8561.55,Curitiba,PR,2019-10-26,,4
+F0406,Cristina Carvalho Barbosa,F,39,Operações,Coordenador de Operações,10433.24,Campinas,SP,2023-07-04,2025-06-06,2
+F0037,Rodrigo Nascimento Dias,M,48,Comercial,Gerente de Vendas,13037.04,Remote,BR,2021-08-29,,3
+F0333,Sabrina Teixeira Souza,F,38,RH,Recrutador,4422.15,Curitiba,PR,2023-03-17,2025-12-23,2
+F0285,Juliana Santos Ferreira,F,43,Financeiro,Analista Financeiro,5558.19,São Paulo,SP,2024-11-20,2025-06-21,2
+F0486,Vanessa Rocha Souza,F,44,Financeiro,Tesoureiro,8690.55,Recife,PE,2024-04-14,,3
+F0055,Paulo Carvalho Oliveira,M,28,Operações,Analista de Operações,6269.07,Brasília,DF,2022-11-11,,4
+F0408,Vanessa Souza Cardoso,F,35,Produto,UX Designer,8605.47,São Paulo,SP,2022-04-04,,3
+F0366,Carolina Dias Almeida,F,46,Comercial,Gerente de Vendas,14379.43,Brasília,DF,2022-06-07,,2
+F0419,Camila Rodrigues Barbosa,F,41,Marketing,Analista de Marketing,5840.63,Florianópolis,SC,2020-07-28,2022-08-28,3
+F0208,Felipe Gomes Oliveira,M,36,Operações,Coordenador de Operações,8852.39,Porto Alegre,RS,2021-05-13,,5
+F0053,Adriana Pereira Almeida,F,58,Comercial,Closer,6077.04,Curitiba,PR,2022-03-18,,4
+F0261,Carolina Dias Teixeira,F,22,Marketing,Analista de Marketing,4427.86,Belo Horizonte,MG,2019-11-03,,3
+F0066,Rodrigo Barbosa Barbosa,M,41,Financeiro,Tesoureiro,8821.85,Brasília,DF,2024-08-07,,3
+F0295,Rafael Santos Souza,M,57,Operações,Analista de Operações,6543.68,Florianópolis,SC,2024-01-22,2025-05-04,2
+F0310,Gabriela Silva Ferreira,F,52,Operações,Coordenador de Operações,9338.56,Belo Horizonte,MG,2024-07-31,,3
+F0179,Natália Mendes Ferreira,F,24,Tecnologia,Desenvolvedor Senior,13540.16,Belo Horizonte,MG,2022-06-15,,3
+F0394,Camila Costa Alves,F,25,Customer Success,Especialista de CS,7842.39,Campinas,SP,2019-10-21,,4
+F0145,Lucas Teixeira Martins,M,56,Comercial,SDR,3331.14,Belo Horizonte,MG,2021-04-18,,2
+F0088,Henrique Martins Cardoso,M,46,RH,Coordenador de RH,11381.22,Porto Alegre,RS,2023-06-03,2024-12-24,3
+F0434,Roberto Rocha Santos,M,28,Tecnologia,Engenheiro de Dados,12693.96,Salvador,BA,2019-05-31,,3
+F0237,Cristina Almeida Lima,F,25,Marketing,Social Media,4547.18,Campinas,SP,2022-01-10,,4
+F0246,Thiago Ribeiro Nascimento,M,44,Tecnologia,Desenvolvedor Pleno,9285.17,Brasília,DF,2018-09-17,,3
+F0180,Pedro Silva Almeida,M,56,Comercial,Gerente de Vendas,11879.72,Remote,BR,2023-11-18,,5
+F0058,Ricardo Pereira Ribeiro,M,39,Financeiro,Controller,14548.73,Recife,PE,2024-09-07,,3
+F0244,Mariana Rocha Lima,F,37,Marketing,Designer,4292.49,Recife,PE,2022-05-28,,4
+F0034,Fernando Rocha Alves,M,43,Customer Success,Gerente de CS,14309.52,Salvador,BA,2018-04-24,2020-04-07,2
+F0016,Larissa Oliveira Nascimento,F,26,Tecnologia,Tech Lead,18636.77,São Paulo,SP,2025-01-28,2025-08-13,5
+F0250,Bruna Rocha Almeida,F,22,Financeiro,Tesoureiro,9559.75,Rio de Janeiro,RJ,2020-05-24,,3
+F0233,Priscila Souza Monteiro,F,29,Marketing,Social Media,3721.58,Brasília,DF,2020-12-10,,4
+F0167,Leonardo Alves Araújo,M,42,Marketing,Designer,4655.93,Campinas,SP,2019-10-28,,4
+F0452,Beatriz Santos Dias,F,54,Customer Success,Especialista de CS,7707.95,Campinas,SP,2019-01-04,2021-02-15,4
+F0441,Pedro Carvalho Ferreira,M,53,Comercial,Vendedor,4102.3,Porto Alegre,RS,2018-11-24,,4
+F0404,Rafael Teixeira Dias,M,37,Financeiro,Tesoureiro,9853.6,Porto Alegre,RS,2020-12-23,2022-08-10,4
+F0170,Renata Rocha Teixeira,F,24,Customer Success,Analista de CS,5643.32,Porto Alegre,RS,2024-06-03,,2
+F0341,Felipe Santos Alves,M,27,Financeiro,Tesoureiro,8651.8,Porto Alegre,RS,2023-02-24,,4
+F0470,Mariana Martins Ferreira,F,53,Financeiro,Contador,5371.95,Brasília,DF,2021-08-23,,5
+F0359,Lucas Carvalho Ferreira,M,35,Financeiro,Controller,12121.55,Curitiba,PR,2024-12-07,,5
+F0094,Mariana Monteiro Souza,F,38,Produto,UX Designer,8553.05,Remote,BR,2024-07-22,,4
+F0201,Tatiana Nascimento Correia,F,44,RH,Coordenador de RH,9865.0,Remote,BR,2021-06-17,2024-10-29,4
+F0187,Priscila Monteiro Lima,F,29,Marketing,Social Media,4567.18,Brasília,DF,2020-04-21,,4
+F0468,Maria Correia Barbosa,F,23,RH,Recrutador,4673.45,Porto Alegre,RS,2022-01-11,2025-03-12,2
+F0133,Rafael Costa Barbosa,M,45,Marketing,Social Media,3283.49,Brasília,DF,2024-03-21,,4
+F0316,Amanda Gomes Dias,F,53,Operações,Gerente de Operações,11983.61,São Paulo,SP,2021-04-25,2024-02-26,3
+F0459,Vitor Ribeiro Barbosa,M,55,Marketing,Analista de Marketing,5228.53,Remote,BR,2018-06-28,2019-04-27,2
